@@ -1,0 +1,25 @@
+body{
+	background-color: #abcdef;
+}
+
+#container{
+	
+	position: absolute;
+	top:10px;
+	left:10px;
+	width: 640px;
+	height: 960px;
+	background-color: #F23389;
+	
+}
+
+.grid{
+	
+background-color: #2B270B;
+width: 30px;
+height: 30px;
+float: left;
+margin: 1px;
+color: white;
+font-size: 22px;
+}
